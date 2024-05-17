@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\bin\Debug\net6.0\Medicio.Data.deps.json
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\bin\Debug\net6.0\Medicio.Data.runtimeconfig.json
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\bin\Debug\net6.0\Medicio.Data.dll
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\bin\Debug\net6.0\Medicio.Data.pdb
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\bin\Debug\net6.0\Medicio.Core.dll
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\bin\Debug\net6.0\Medicio.Core.pdb
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\obj\Debug\net6.0\Medicio.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\obj\Debug\net6.0\Medicio.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\obj\Debug\net6.0\Medicio.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\obj\Debug\net6.0\Medicio.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\obj\Debug\net6.0\Medicio.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\obj\Debug\net6.0\Medicio.Data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\obj\Debug\net6.0\Medicio.Data.dll
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\obj\Debug\net6.0\refint\Medicio.Data.dll
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\obj\Debug\net6.0\Medicio.Data.pdb
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\obj\Debug\net6.0\Medicio.Data.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\MedicioApp\Medicio.Data\obj\Debug\net6.0\ref\Medicio.Data.dll
