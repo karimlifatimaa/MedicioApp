@@ -61,7 +61,10 @@ namespace MedicioApp.Areas.Admin.Controllers
         public IActionResult Delete(int id)
         {
             var doctor=_doctorService.GetDoctor(x=>x.Id == id);
-            if (doctor == null) throw new EntityNullException("Entity not found");
+            if (doctor == null)
+            {
+                return NotFound();
+            }
             try
             {
                 _doctorService.DeleteDoctor(doctor.Id);
@@ -86,7 +89,10 @@ namespace MedicioApp.Areas.Admin.Controllers
         public IActionResult Update(int id)
         {
             var doctor= _doctorService.GetDoctor(x=> x.Id == id);
-            if(doctor == null) throw new EntityNullException("Entity not found");
+            if(doctor == null)
+            {
+                return NotFound();
+            }
            
             return View(doctor);
         }

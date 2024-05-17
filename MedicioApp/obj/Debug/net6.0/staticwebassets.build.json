@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "biQlpZEELFtSKwWvc9EB1hlrTmMqpORi4K9mhnYpZKk=",
+  "Hash": "y2cwJK6ZgiZuy4De3wM2zeqqUVR/Vc1PztuuqQbW/tU=",
   "Source": "MedicioApp",
   "BasePath": "_content/MedicioApp",
   "Mode": "Default",
@@ -33879,6 +33879,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Manage\\vendor\\jquery-easing\\jquery.easing.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\MedicioApp\\MedicioApp\\wwwroot\\Uploads\\Doctor\\0ece93ec-d522-460d-ae5e-a92378f8e7f2.jfif",
+      "SourceId": "MedicioApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\MedicioApp\\MedicioApp\\wwwroot\\",
+      "BasePath": "_content/MedicioApp",
+      "RelativePath": "Uploads/Doctor/0ece93ec-d522-460d-ae5e-a92378f8e7f2.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Doctor\\0ece93ec-d522-460d-ae5e-a92378f8e7f2.jfif"
     },
     {
       "Identity": "C:\\Users\\II novbe\\Desktop\\MedicioApp\\MedicioApp\\wwwroot\\Uploads\\Doctor\\258e70a6-e67c-44f2-b159-026c50ccb996.jfif",
